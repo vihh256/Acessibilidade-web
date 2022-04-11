@@ -1,0 +1,130 @@
+# ifce
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>Acessibilidade web</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <ul>
+    <br>
+      <center>
+        <h1>
+          Acessibilidade com HTML
+        </h1>
+      </center>
+
+    <br>
+
+  
+    <h2>
+      O que é Acessibilidade na Web?
+    </h2>
+    <center>
+      <img src="img1.png" style="width:95%">
+    </center>
+    <p>
+      
+          Nós sabemos que ainda existe pouca 
+          informação sobre o assunto, e algumas 
+          pessoas acabam acreditando em diversos 
+          mitos. 
+      Mas acessibilidade na web é sobre uma coisa 
+          bem simples: quebrar barreiras nos ambientes 
+          virtuais. Tornar 
+          uma página 
+      acessível é permitir que diferentes tipos de 
+          pessoas, com deficiência ou não, possam 
+          chegar aos conteúdos e compreendê-los 
+      com autonomia.
+  
+    <br><br>
+  
+          “Acessibilidade na web significa que pessoas 
+          com deficiência podem usar a web. Mais 
+          especificamente, a acessibilidade na web 
+      significa que pessoas com deficiência 
+          podem perceber, entender, navegar, interagir 
+          e contribuir para a web. E mais. Ela também 
+      beneficia outras pessoas, incluindo 
+          pessoas idosas com capacidades em mudança 
+          devido ao envelhecimento.”
+    </p>
+  
+      <h2>
+        Qual a importância de deixar seu site 
+        acessível?
+      </h2>
+      <p>
+          As pessoas estão se sentido cada vez mais 
+          confortáveis para realizar todo tipo de 
+          atividade no mundo virtual. Por isso, muito 
+      <br>mais do que ter um design bonito e 
+          atraente, os sites precisam atender a todos. 
+          Quando uma página não está acessível, ela está    
+      <br>fechando as portas para milhões 
+          de pessoas, indo contra o seu propósito – 
+          que é atrair mais visitantes.
+          Ou seja, não pensar em 
+      <br>acessibilidade pode ser sinônimo de       
+          deixar dinheiro em cima da mesa. Vale 
+          reforçar que hoje em dia já existem recursos 
+          que 
+      <br>permitem criar sites bonitos,        
+          funcionais e acessíveis ao mesmo tempo. Além do mais, 
+          a acessibilidade pode melhorar o seu 
+      <br>rankeamento da sua página no Google, uma vez que o 
+          algoritmo do buscador reconhece essas 
+          práticas e o enxerga com maior 
+      <br>relevância.
+  
+        Tendo isso em vista, desde 2016 a Lei 
+        Brasileira de inclusão (LBI) exige que todos os 
+        sites, públicos e privados, 
+      <br>estejam acessíveis. Mas infelizmente apenas 
+          1% deles seguem essa regra no Brasil. Diante 
+          disso, ter um site acessível não é só 
+      <br>cumprir a lei, é ter um                  
+          diferencial competitivo. E as organizações 
+          que saíram na frente nesse movimento já tem 
+          sido
+      <br>reconhecidas. A Prefeitura de São Paulo, por 
+          exemplo, lançou o seu Selo de Acessibilidade
+          Digital justamente com esse 
+      <br>propósito e já tem ratificado sites de 
+          empresas de todo o Brasil, como a
+          Samsung.
+  
+          São motivos de sobra para pensar se no 
+      <br>assunto, não é mesmo?
+      </p>
+
+    <h2>
+      Os primeiros passos para a acessibilidade
+    </h2>
+    <p>
+      <strong>Aqui vão algumas dicas:</strong>
+      <br>
+      <br>  - Faça descrição alternativa das imagens, pois assim os leitores de tela poderão identificá-las e descrevê-las para os usuários cegos.
+      <br>
+      <br>  - Não use apenas cores para destacar uma informação. Isso ajudará pessoas com daltonismo, por exemplo, que não conseguiriam diferenciar os itens destacados apenas por cores.<br>
+      <br>  - Simplifique seu texto. Ao fazer isso, você facilita a leitura de pessoas com dislexia.<br>
+      <br>  - Crie áreas de clique maiores nos botões, isso ajudará usuários que não têm precisão nos cliques a acessar conteúdos específicos.
+      <br><br><br>
+      <strong>Lembrando que um site acessível é:</strong>
+      <br>
+      <br><b>  -Perceptível:</b> As informações e interface são apresentadas de uma forma que possa ser percebida;<br>
+      <br><b>  -Operável:</b>A Interface e a navegação devem ser operáveis para todos os usuários;<br>
+      <br><b>  -Compreensível:</b>A informação deve ser apresentada de forma simples e compreensível;<br>
+      <br><b>  -Rubusto:</b>O conteúdo deve ser robusto de uma forma que possa maximizar sua compatibilidade com diferentes tipos de pessoas e tecnologias assistivas.<br><br>
+
+      Seguindo esses princípios não tem erro, seu site estará acessível para todos! Mas esse é só o primeiro passo, ainda há um bom caminho a ser percorrido. E nós vamos falar sobre algumas ferramentas bem simples que são uma mão na roda!
+    </p>
+  </ul>
+ </body>
+
+</html>
