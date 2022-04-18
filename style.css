@@ -1,0 +1,33 @@
+body{
+  background-color: #242424;
+}
+
+ul {
+  position: center;
+  left: 250px;
+  margin: 0;
+  padding: 50;
+  background-color: #333333;
+  color: white;
+  border-radius: 10px;
+}
+
+h2 {
+  display: block;
+  text-align: left;
+  padding: 20px;
+  text-decoration: none;
+}
+p{
+  display:block;
+  margin: 0;
+  padding: 20px;
+  overflow: hidden;
+}
+
+  img {
+    display:block;
+    border-radius: 5px;
+    right:3px;
+}
+
